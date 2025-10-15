@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T20:59:02.718005+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-10-15T21:39:28.788962+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -200,6 +200,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2988270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
           "url": "https://flash.jin10.com/detail/20251015161157909800",
           "source": "金十数据",
@@ -317,22 +328,24 @@
           "url": "https://www.cls.cn/detail/2170382",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "A股缩量反弹 明天能摸到3950点吗",
           "url": "https://www.toutiao.com/trending/7561403818705948196/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "A股市场两融余额再创历史新高",
@@ -572,8 +585,19 @@
     },
     {
       "keyword_group": "阿里 通义千问",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
         {
           "title": "阿里通义林俊旸：本周首发Qwen3-VL系列模型 已提供4B和8B两个版本",
           "url": "https://flash.jin10.com/detail/20251015015954128800",
@@ -708,11 +732,12 @@
             17,
             16,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 20时59分]"
+          "appearance_count": 19,
+          "time_info": "[11时11分 ~ 21时39分]"
         },
         {
           "title": "全网都在抄的抖音双11爆款清单",
@@ -757,8 +782,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 20时59分]"
+          "appearance_count": 19,
+          "time_info": "[11时11分 ~ 21时39分]"
         },
         {
           "title": "腾讯视频账号 6 次超限或面临封号，平台称是为防止黑灰产，如何看待这一规定？能解决问题吗？",
@@ -768,8 +793,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
