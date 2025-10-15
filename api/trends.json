@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T00:31:17.751932+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-16T01:25:57.514985+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2269916",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "霉霉空降抖音回复粉丝",
@@ -26,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     },
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/1959736721655691037",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "腾讯反作弊,反的是绿玩？",
@@ -54,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     },
@@ -85,11 +87,12 @@
           "url": "https://wallstreetcn.com/articles/3757230",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     },
@@ -102,11 +105,12 @@
           "url": "https://www.cls.cn/detail/2170382",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     }
