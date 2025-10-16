@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T21:03:54.887525+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2025-10-16T21:39:06.010403+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时25分 ~ 13时27分]"
+        },
+        {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "贸易消息引发市场剧烈波动，美股冲高回落后收涨，黄金再创新高",
@@ -78,17 +89,6 @@
           "time_info": "04时30分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2989026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
           "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
           "url": "https://wallstreetcn.com/livenews/2988400",
           "source": "华尔街见闻-快讯",
@@ -99,6 +99,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时39分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，和新兴市场ETF领跑美股大类资产类ETF",
@@ -209,6 +221,19 @@
           "time_info": "[00时30分 ~ 07时25分]"
         },
         {
+          "title": "A股成交跌破两万亿",
+          "url": "https://www.toutiao.com/trending/7561746609113927207/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 21时39分]"
+        },
+        {
           "title": "外资机构纷纷发声，投下A股“信任票”",
           "url": "https://wallstreetcn.com/livenews/2988445",
           "source": "华尔街见闻-快讯",
@@ -231,18 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
-        },
-        {
-          "title": "A股成交跌破两万亿",
-          "url": "https://www.toutiao.com/trending/7561746609113927207/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时03分]"
         },
         {
           "title": "上证指数早盘收报3916.10点，涨0.10%。 深证成指早盘收报13139.00点，涨0.15%。 创业板指早盘收报3046.68点，涨0.69%。 沪深300早盘收报4621.36点，涨0.33%。 科创50早盘收报1432.66点，涨0.19%。 中证500早盘收报7266.44点，跌0.38%。 中证1000早盘收报7437.87点，跌0.61%。",
@@ -438,7 +451,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         }
@@ -507,7 +520,7 @@
     },
     {
       "keyword_group": "openai chatgpt sora",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "刚升值就跳槽！报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
@@ -530,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "到2030年，OpenAI在甲骨文服务器上的支出可能会超过在微软服务器上的支出。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2989034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
