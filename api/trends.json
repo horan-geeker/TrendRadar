@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T01:23:35.159330+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-10-18T02:37:00.068120+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -38,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -48,7 +50,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -59,7 +61,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -74,11 +76,12 @@
           "url": "https://www.douyin.com/hot/2273314",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         }
       ]
     },
