@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T19:22:45.346225+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2025-10-17T20:57:26.883124+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时59分 ~ 19时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时59分 ~ 20时57分]"
         },
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -90,13 +90,24 @@
           "time_info": "04时30分"
         },
         {
+          "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美股股指期货短线拉升，纳指期货跌幅收窄至0.7%。",
           "url": "https://flash.jin10.com/detail/20251017191320745800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -230,6 +241,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2989757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
           "url": "https://wallstreetcn.com/livenews/2989196",
           "source": "华尔街见闻-快讯",
@@ -343,7 +365,7 @@
     },
     {
       "keyword_group": "A股 上证指数",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股",
@@ -496,6 +518,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "下周A股怎么走",
+          "url": "https://www.toutiao.com/trending/7562142537100561930/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "BBVA股价上涨7%，此前尝试收购Sabadell失败。",
           "url": "https://wallstreetcn.com/livenews/2989527",
           "source": "华尔街见闻-快讯",
@@ -527,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "李大霄剖析A股下跌的八大原因",
+          "url": "https://www.toutiao.com/trending/7562137561544527402/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "A股福建自贸区概念盘中逆势拉升，海峡创新、平潭发展、海通发展涨停，厦门港务、福建金森一度触及涨停，漳州发展、福建水泥、国航远洋、三木集团等冲高。",
@@ -589,6 +633,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nanobanana",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌与Salesforce扩大AI领域合作",
+          "url": "https://flash.jin10.com/detail/20251017093117302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
+          "url": "https://flash.jin10.com/detail/20251017200137863800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -682,19 +754,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini nanobanana",
+      "keyword_group": "抖音 豆包 即梦 coze",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌与Salesforce扩大AI领域合作",
-          "url": "https://flash.jin10.com/detail/20251017093117302800",
-          "source": "金十数据",
+          "title": "余生有涯抖音追剧团",
+          "url": "https://www.douyin.com/hot/2273314",
+          "source": "抖音",
           "ranks": [
-            4
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "20时57分"
         }
       ]
     }
