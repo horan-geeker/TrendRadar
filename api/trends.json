@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:25:11.365589+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-10-18T14:37:15.954296+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 14时37分]"
+        },
+        {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 14时37分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -59,18 +71,6 @@
           "time_info": "[00时33分 ~ 13时25分]"
         },
         {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时25分]"
-        },
-        {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
           "url": "https://wallstreetcn.com/articles/3757381",
           "source": "华尔街见闻",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 14时37分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -216,11 +216,12 @@
             12,
             8,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "日均30万亿Token！“豆包”的逆袭",
@@ -327,8 +328,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 14时37分]"
         }
       ]
     }
