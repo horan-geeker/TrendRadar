@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:29:42.484946+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-10-18T13:25:11.365589+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,17 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
+        },
+        {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2173194",
           "source": "财联社热门",
@@ -44,19 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 12时29分]"
-        },
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -67,8 +67,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 13时25分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -215,11 +215,12 @@
             28,
             12,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "日均30万亿Token！“豆包”的逆袭",
@@ -304,11 +305,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 13时25分]"
         }
       ]
     },
@@ -325,8 +327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 13时25分]"
         }
       ]
     }
