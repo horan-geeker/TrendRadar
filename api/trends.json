@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T01:21:23.242773+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-10-19T02:35:28.467125+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -49,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "url": "https://wallstreetcn.com/livenews/2990067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     },
@@ -83,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     }
