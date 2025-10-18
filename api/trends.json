@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:23:21.827147+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-10-18T23:24:05.011452+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时55分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[09时55分 ~ 23时24分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -53,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时24分 ~ 22时23分]"
+          "appearance_count": 22,
+          "time_info": "[07时24分 ~ 23时24分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -71,6 +72,29 @@
           "time_info": "[00时33分 ~ 13时25分]"
         },
         {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时26分 ~ 23时24分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时26分 ~ 23时24分]"
+        },
+        {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
           "url": "https://wallstreetcn.com/articles/3757381",
           "source": "华尔街见闻",
@@ -81,29 +105,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时55分 ~ 14时37分]"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时23分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时23分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -283,11 +284,12 @@
           "ranks": [
             6,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
@@ -378,8 +380,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时36分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[11时36分 ~ 23时24分]"
         }
       ]
     }
