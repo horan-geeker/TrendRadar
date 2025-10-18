@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T11:36:30.309615+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2025-10-18T12:29:42.484946+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 11时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -54,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时29分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时29分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -101,6 +102,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -137,17 +150,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时24分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时36分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -212,11 +214,12 @@
             25,
             28,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "日均30万亿Token！“豆包”的逆袭",
@@ -304,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时24分 ~ 11时36分]"
+          "appearance_count": 6,
+          "time_info": "[06时24分 ~ 12时29分]"
         }
       ]
     },
@@ -318,11 +321,12 @@
           "url": "https://wallstreetcn.com/articles/3757415",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时29分]"
         }
       ]
     }
