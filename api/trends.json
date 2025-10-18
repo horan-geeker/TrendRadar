@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T04:28:25.954586+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-10-19T05:24:28.992518+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -52,6 +52,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何理解周五的A股大跌",
+          "url": "https://wallstreetcn.com/articles/3757415",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时24分]"
+        },
+        {
+          "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
+          "url": "https://www.cls.cn/detail/2173112",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -68,23 +96,6 @@
             22,
             27,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何理解周五的A股大跌",
-          "url": "https://wallstreetcn.com/articles/3757415",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 5,
