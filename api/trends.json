@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T15:24:15.905404+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-10-18T16:32:21.761030+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 15时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 16时32分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 15时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 16时32分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -220,8 +220,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 15时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 16时32分]"
         },
         {
           "title": "日均30万亿Token！“豆包”的逆袭",
@@ -325,11 +325,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 16时32分]"
         }
       ]
     }
