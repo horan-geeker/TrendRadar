@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:21:32.743789+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-10-19T04:28:25.954586+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "ranks": [
             20,
             22,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         }
       ]
     }
