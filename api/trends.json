@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-18T14:37:15.954296+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-10-18T15:24:15.905404+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 巴菲特",
       "match_count": 16,
       "titles": [
+        {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 15时24分]"
+        },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
           "url": "https://wallstreetcn.com/articles/3757385",
@@ -34,17 +45,6 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 14时37分]"
-        },
-        {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 15时24分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -220,8 +220,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 14时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "日均30万亿Token！“豆包”的逆袭",
@@ -328,8 +328,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时36分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 15时24分]"
         }
       ]
     }
