@@ -1,87 +1,44 @@
 {
-  "generated_at": "2025-10-18T23:24:05.011452+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-10-19T00:32:24.542852+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时55分 ~ 23时24分]"
-        },
-        {
-          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时24分]"
-        },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            6,
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时24分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            12,
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时26分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -91,277 +48,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时26分 ~ 23时24分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 14时37分]"
-        },
-        {
-          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040725341800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251018040554537800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时24分]"
-        },
-        {
-          "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004100185800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004043733800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nanobanana",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
-          "source": "微博",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时23分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
-          "url": "https://wallstreetcn.com/livenews/2989800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "阿里 通义千问",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
         {
           "title": "阿里云Aegaeon方案入选SOSP，GPU用量削减82%",
           "url": "https://wallstreetcn.com/livenews/2990067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13,
-            15,
-            18
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 23时24分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 豆包 即梦 coze",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "余生有涯抖音追剧团",
-          "url": "https://www.douyin.com/hot/2273314",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            26,
-            22,
-            25,
-            28,
-            12,
-            8,
-            9,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 22时23分]"
-        },
-        {
-          "title": "日均30万亿Token！“豆包”的逆袭",
-          "url": "https://wallstreetcn.com/articles/3757383",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt sora",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -374,14 +79,11 @@
           "url": "https://wallstreetcn.com/articles/3757415",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            7,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时36分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
