@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T01:23:00.380400+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-10-20T02:36:34.433652+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         },
         {
           "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.douyin.com/hot/2275746",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -58,11 +59,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -92,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     }
