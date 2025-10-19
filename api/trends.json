@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T13:26:26.081337+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-10-19T14:38:33.119574+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 13时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 14时38分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 11时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 14时38分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -78,6 +78,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
+          "url": "https://www.cls.cn/detail/2173112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时24分 ~ 14时38分]"
+        },
+        {
           "title": "如何理解周五的A股大跌",
           "url": "https://wallstreetcn.com/articles/3757415",
           "source": "华尔街见闻",
@@ -89,29 +103,17 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
-          "url": "https://www.cls.cn/detail/2173112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时24分 ~ 13时26分]"
-        },
-        {
           "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2173646",
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时38分]"
         },
         {
           "title": "为何A股国庆节后遇挫",
@@ -156,11 +158,12 @@
           "ranks": [
             8,
             11,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 14时38分]"
         }
       ]
     },
