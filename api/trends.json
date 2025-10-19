@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T02:36:34.433652+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-10-20T03:21:09.768419+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         },
         {
           "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -60,11 +60,12 @@
           "ranks": [
             12,
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         }
       ]
     }
