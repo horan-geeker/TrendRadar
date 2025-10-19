@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T16:31:48.746392+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-10-19T17:26:08.440222+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 17时26分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -88,19 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时24分 ~ 16时31分]"
-        },
-        {
-          "title": "如何理解周五的A股大跌",
-          "url": "https://wallstreetcn.com/articles/3757415",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[05时24分 ~ 17时26分]"
         },
         {
           "title": "龙头6天3板 本周披露并购重组进展的A股名单一览",
@@ -112,8 +101,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 17时26分]"
+        },
+        {
+          "title": "如何理解周五的A股大跌",
+          "url": "https://wallstreetcn.com/articles/3757415",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
         },
         {
           "title": "为何A股国庆节后遇挫",
@@ -185,6 +185,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯 元宝 混元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全体起立!上古真神降临腾讯新游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345937&amp;topic_name=%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B%21%E4%B8%8A%E5%8F%A4%E7%9C%9F%E7%A5%9E%E9%99%8D%E4%B8%B4%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         }
       ]
     }
