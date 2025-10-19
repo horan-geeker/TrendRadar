@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:21:25.485867+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-10-19T20:51:07.792236+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 19时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 20时51分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -62,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时51分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -95,11 +97,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 20时51分]"
         },
         {
           "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
@@ -210,11 +213,12 @@
           "ranks": [
             8,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时51分]"
         }
       ]
     }
