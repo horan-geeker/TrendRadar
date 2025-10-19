@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T14:38:33.119574+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-10-19T15:22:56.473445+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 15时22分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -88,8 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时24分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[05时24分 ~ 15时22分]"
         },
         {
           "title": "如何理解周五的A股大跌",
@@ -112,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时22分]"
         },
         {
           "title": "为何A股国庆节后遇挫",
@@ -159,11 +159,12 @@
             8,
             11,
             17,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 15时22分]"
         }
       ]
     },
