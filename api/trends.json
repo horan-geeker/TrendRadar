@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T03:21:09.768419+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-10-20T04:28:03.831788+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2173646",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2173822",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -44,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -64,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -81,8 +83,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -99,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     }
