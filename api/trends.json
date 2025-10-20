@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:40:15.246762+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-10-21T03:23:37.782962+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -63,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -104,11 +105,12 @@
           "ranks": [
             24,
             21,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         }
       ]
     },
@@ -159,8 +161,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时23分]"
         }
       ]
     }
