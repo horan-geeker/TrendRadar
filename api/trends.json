@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T15:34:56.617816+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-10-20T16:37:35.735106+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,18 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "A股三大指数集体上涨",
+          "url": "https://www.toutiao.com/trending/7563109455744221203/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时37分]"
+        },
+        {
           "title": "A股燃气板块继续走强，国新能源5天4板，大众公用此前涨停，首华燃气、凯添燃气、长春燃气、洪通燃气跟涨。",
           "url": "https://wallstreetcn.com/livenews/2990442",
           "source": "华尔街见闻-快讯",
@@ -107,6 +119,17 @@
           "time_info": "[11时54分 ~ 12时33分]"
         },
         {
+          "title": "A股收评：全市场超4000只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854000%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时37分]"
+        },
+        {
           "title": "A股光模块走高 “易中天”大涨 花旗称看到行业需求潜在上行可能",
           "url": "https://wallstreetcn.com/livenews/2990379",
           "source": "华尔街见闻-快讯",
@@ -125,18 +148,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "A股收评：全市场超4000只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854000%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -147,18 +159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "A股三大指数集体上涨",
-          "url": "https://www.toutiao.com/trending/7563109455744221203/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -169,7 +170,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -210,7 +211,7 @@
     },
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -244,9 +245,31 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时37分]"
+        },
+        {
+          "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
+          "url": "https://flash.jin10.com/detail/20251020160340646800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "16时37分"
+        },
+        {
+          "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2990523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -273,7 +296,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -284,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -305,11 +328,12 @@
             15,
             16,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 15时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时37分]"
         },
         {
           "title": "南通队球员抖音庆祝入围决赛",
@@ -320,14 +344,14 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时37分]"
         }
       ]
     },
     {
       "keyword_group": "阿里 通义千问",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
@@ -343,6 +367,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 10时10分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨2.42%，恒生科技指数收涨3%。科技股普涨，阿里巴巴涨近5%，腾讯、百度涨超3%；半导体板块走高，上海复旦涨近5%，中芯国际涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2990528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -362,8 +397,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 15时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时37分]"
         }
       ]
     }
