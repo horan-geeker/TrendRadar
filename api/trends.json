@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T22:29:34.266323+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2025-10-20T23:30:08.337533+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
@@ -262,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时34分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时34分 ~ 23时30分]"
         },
         {
           "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
@@ -283,9 +283,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 23时30分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -312,16 +325,28 @@
           "time_info": "[21时38分 ~ 22时29分]"
         },
         {
-          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2174932",
-          "source": "财联社热门",
+          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/2990731",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            7
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时29分]"
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时30分]"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2990727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时30分]"
         },
         {
           "title": "美光科技(MU.O)美股盘前上涨4.2%，此前巴克莱上调其目标价。",
@@ -368,17 +393,6 @@
           "time_info": "18时32分"
         },
         {
-          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/2990731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
           "url": "https://wallstreetcn.com/livenews/2990560",
           "source": "华尔街见闻-快讯",
@@ -388,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2990727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
@@ -440,7 +443,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
@@ -520,6 +523,68 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
+          "url": "https://wallstreetcn.com/livenews/2990621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时25分]"
+        },
+        {
+          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1963642369963426172",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "DeepSeek新模型 用视觉方式压缩一切",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B+%E7%94%A8%E8%A7%86%E8%A7%89%E6%96%B9%E5%BC%8F%E5%8E%8B%E7%BC%A9%E4%B8%80%E5%88%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
+          "url": "https://www.cls.cn/detail/2174661",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "抖音 豆包 即梦 coze",
       "match_count": 5,
       "titles": [
@@ -553,8 +618,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时41分 ~ 22时29分]"
+          "appearance_count": 14,
+          "time_info": "[14时41分 ~ 23时30分]"
         },
         {
           "title": "阿里夸克秘密开展“C计划”：涉对话式AI应用，或对标字节豆包",
@@ -590,6 +655,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 通义千问",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
+          "url": "https://www.zhihu.com/question/1962624279872006124",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时10分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅扩大至2%。 热门中概股里，阿里巴巴涨3.8%，蔚来涨3.2%，台积电涨2.6%，腾讯涨1.8%。 ETF中，YINN涨2.98%，KWEB涨1.84%，CQQQ和MCHI涨1.1%。 富时A50夜期目前涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2990757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨2.42%，恒生科技指数收涨3%。科技股普涨，阿里巴巴涨近5%，腾讯、百度涨超3%；半导体板块走高，上海复旦涨近5%，中芯国际涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2990528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数涨超1%，爱奇艺(IQ.O)涨超3%，阿里巴巴(BABA.N)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251020224246451800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         }
       ]
     },
@@ -642,67 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
-          "url": "https://wallstreetcn.com/livenews/2990621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时25分]"
-        },
-        {
-          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
-          "url": "https://www.cls.cn/detail/2174661",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 通义千问",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
-          "url": "https://www.zhihu.com/question/1962624279872006124",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 10时10分]"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨2.42%，恒生科技指数收涨3%。科技股普涨，阿里巴巴涨近5%，腾讯、百度涨超3%；半导体板块走高，上海复旦涨近5%，中芯国际涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/2990528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         }
       ]
     },
@@ -761,8 +819,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时30分 ~ 22时29分]"
+          "appearance_count": 31,
+          "time_info": "[00时30分 ~ 23时30分]"
         }
       ]
     }
