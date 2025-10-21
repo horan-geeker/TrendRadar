@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T01:24:40.392099+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-10-22T02:38:42.452409+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         },
         {
           "title": "美股短线下挫，纳指跌0.13%。",
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -98,19 +98,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -118,17 +119,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         }
       ]
     },
     {
       "keyword_group": "openai chatgpt sora",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
@@ -137,7 +139,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -148,9 +150,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
@@ -159,7 +172,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -175,11 +188,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         }
       ]
     },
@@ -194,7 +208,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
