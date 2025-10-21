@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T17:33:37.255901+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2025-10-21T18:30:36.072555+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时30分]"
         },
         {
           "title": "A股深地经济概念盘中持续走强，正元地信20cm涨停，此前中裕科技、德石股份、山河智能、中化岩土、山东墨龙等多股涨停，恒立钻具、四方达涨超10%。",
@@ -183,7 +184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -224,7 +225,7 @@
     },
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -277,8 +278,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 18时30分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -378,6 +379,17 @@
           "time_info": "[16时39分 ~ 17时33分]"
         },
         {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251021003251038800",
           "source": "金十数据",
@@ -414,8 +426,22 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 18时30分]"
+        },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
           "url": "https://www.zhihu.com/question/1963642369963426172",
@@ -433,20 +459,6 @@
           "time_info": "[00时35分 ~ 11时43分]"
         },
         {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 17时33分]"
-        },
-        {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
           "source": "华尔街见闻",
@@ -457,8 +469,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -466,11 +478,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时30分]"
+        },
+        {
+          "title": "全球六大顶级AI实盘厮杀 DeepSeek第一",
+          "url": "https://www.toutiao.com/trending/7563562894495845907/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
@@ -537,17 +561,6 @@
           "time_info": "[10时02分 ~ 15时29分]"
         },
         {
-          "title": "报道：英伟达讨论为OpenAI提供贷款担保",
-          "url": "https://wallstreetcn.com/livenews/2991154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
           "url": "https://wallstreetcn.com/livenews/2991014",
           "source": "华尔街见闻-快讯",
@@ -560,13 +573,25 @@
           "time_info": "[12时34分 ~ 13时29分]"
         },
         {
+          "title": "报道：英伟达讨论为OpenAI提供贷款担保",
+          "url": "https://wallstreetcn.com/livenews/2991154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时30分]"
+        },
+        {
           "title": "据The Information：英伟达(NVDA.O)讨论为OpenAI提供贷款担保。",
           "url": "https://flash.jin10.com/detail/20251021165053219800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -641,6 +666,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "抖音美好奇妙夜阵容官宣",
+          "url": "https://www.douyin.com/hot/2277343",
+          "source": "抖音",
+          "ranks": [
+            28,
+            18,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时28分 ~ 18时30分]"
+        },
+        {
           "title": "南通队球员抖音庆祝入围决赛",
           "url": "https://www.douyin.com/hot/2276117",
           "source": "抖音",
@@ -654,20 +694,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 07时26分]"
-        },
-        {
-          "title": "抖音美好奇妙夜阵容官宣",
-          "url": "https://www.douyin.com/hot/2277343",
-          "source": "抖音",
-          "ranks": [
-            28,
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时28分 ~ 17时33分]"
         },
         {
           "title": "阿里夸克“C计划”挑战字节豆包，股价一度上涨逾4%",
