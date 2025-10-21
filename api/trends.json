@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:34:34.608894+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-10-21T13:29:13.035462+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 13时29分]"
         },
         {
           "title": "A股",
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时29分]"
         },
         {
           "title": "上证指数早盘收报3910.13点，涨1.20%。 深证成指早盘收报13065.58点，涨1.97%。 创业板指早盘收报3080.79点，涨2.92%。 沪深300早盘收报4607.56点，涨1.53%。 科创50早盘收报1397.03点，涨2.13%。 中证500早盘收报7180.00点，涨1.56%。 中证1000早盘收报7342.70点，涨1.43%。",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时29分]"
         },
         {
           "title": "A股中字头股票拉升，中信重工2连板，中信金属涨停，中纺标涨超10％，中成股份、中钢洛耐、中国一重、中铁装配、中国铁物跟涨。",
@@ -50,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时29分]"
         },
         {
           "title": "A股流感、维生素板块短线拉升，特一药业直线涨停，金石亚药、华兰疫苗涨超10%，亨迪药业、向日葵跟涨。",
@@ -62,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时29分]"
         },
         {
           "title": "A股深地经济概念盘中持续走强，正元地信20cm涨停，此前中裕科技、德石股份、山河智能、中化岩土、山东墨龙等多股涨停，恒立钻具、四方达涨超10%。",
@@ -200,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 13时29分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -338,22 +342,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时29分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时29分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -444,6 +450,93 @@
       ]
     },
     {
+      "keyword_group": "抖音 豆包 即梦 coze",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "南通队球员抖音庆祝入围决赛",
+          "url": "https://www.douyin.com/hot/2276117",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21,
+            18,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时26分]"
+        },
+        {
+          "title": "阿里夸克“C计划”挑战字节豆包，股价一度上涨逾4%",
+          "url": "https://wallstreetcn.com/livenews/2991007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时29分]"
+        },
+        {
+          "title": "抖音美好奇妙夜阵容官宣",
+          "url": "https://www.douyin.com/hot/2277343",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai chatgpt sora",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 13时29分]"
+        },
+        {
+          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2991014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时29分]"
+        },
+        {
+          "title": "日立与OpenAI建立战略合作伙伴关系",
+          "url": "https://flash.jin10.com/detail/20251021123730273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 通义千问",
       "match_count": 3,
       "titles": [
@@ -480,68 +573,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 豆包 即梦 coze",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "南通队球员抖音庆祝入围决赛",
-          "url": "https://www.douyin.com/hot/2276117",
-          "source": "抖音",
-          "ranks": [
-            24,
-            21,
-            18,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时26分]"
-        },
-        {
-          "title": "阿里夸克“C计划”挑战字节豆包，股价一度上涨逾4%",
-          "url": "https://wallstreetcn.com/livenews/2991007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt sora",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
-          "url": "https://wallstreetcn.com/livenews/2991014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时34分]"
         }
       ]
     },
