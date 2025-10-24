@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T18:32:16.882422+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2025-10-24T19:24:31.659989+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -33,6 +33,20 @@
           "time_info": "[00时35分 ~ 07时33分]"
         },
         {
+          "title": "“十五五”政策怎么走？多位首席划重点，看好A股慢牛",
+          "url": "https://www.cls.cn/detail/2179531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 19时24分]"
+        },
+        {
           "title": "A股午后拉升，三大股指集体收涨，煤炭股掀涨停潮，恒指终结5连阴，泡泡玛特逆势跌超9%，“双焦”大涨",
           "url": "https://wallstreetcn.com/articles/3757703",
           "source": "华尔街见闻",
@@ -47,30 +61,18 @@
           "time_info": "[07时33分 ~ 15时26分]"
         },
         {
-          "title": "“十五五”政策怎么走？多位首席划重点，看好A股慢牛",
-          "url": "https://www.cls.cn/detail/2179531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 18时32分]"
-        },
-        {
           "title": "A股收评：沪指涨0.71%续创10年新高",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
           "ranks": [
             15,
             28,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 19时24分]"
         },
         {
           "title": "A股地下管网概念异动拉升，青龙管业触及涨停，三和管桩、韩建河山、东宏股份、金洲管道等跟涨。",
@@ -95,24 +97,25 @@
           "time_info": "13时28分"
         },
         {
+          "title": "A股未来五年大方向在哪里",
+          "url": "https://www.toutiao.com/trending/7564697479606701631/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时24分]"
+        },
+        {
           "title": "李大霄：A股创下十年新高 成交量不足",
           "url": "https://www.toutiao.com/trending/7564687770816351787/",
           "source": "今日头条",
           "ranks": [
             10,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时32分]"
-        },
-        {
-          "title": "A股未来五年大方向在哪里",
-          "url": "https://www.toutiao.com/trending/7564697479606701631/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -187,6 +190,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "中国移动：10月24日，广东移动行使换股权将其持有的合计面值人民币14.84亿元（约合16.26亿港元）浦发银行A股可转债按照每股人民币12.51元（约合13.71港元）之转股价转为约1.19亿股之浦发银行A股。",
+          "url": "https://wallstreetcn.com/livenews/2993358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "A股未来方向如何",
           "url": "https://www.toutiao.com/trending/7564602661597613594/",
           "source": "今日头条",
@@ -212,7 +226,7 @@
     },
     {
       "keyword_group": "美股 巴菲特",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -236,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时33分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 19时24分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -337,6 +351,17 @@
           "time_info": "[04时30分 ~ 05时23分]"
         },
         {
+          "title": "宝洁第一季度内生性收入增长2％，预估增长1.42％。 第一季度销售净额223.9亿美元，同比增长3%，预估221.9亿美元。 第一季度调整后自由现金流49.0亿美元。 仍然预测全年内生性收入0％至增长4％，预估增长2.14％。 仍然预测全年核心每股收益6.83美元至7.09美元，预估6.97美元。 宝洁美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2993376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
           "url": "https://wallstreetcn.com/livenews/2993213",
           "source": "华尔街见闻-快讯",
@@ -405,6 +430,77 @@
       ]
     },
     {
+      "keyword_group": "抖音 豆包 即梦 coze",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "豆包三宫格,当代赛博牛皮癣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346139&amp;topic_name=%E8%B1%86%E5%8C%85%E4%B8%89%E5%AE%AB%E6%A0%BC%2C%E5%BD%93%E4%BB%A3%E8%B5%9B%E5%8D%9A%E7%89%9B%E7%9A%AE%E7%99%A3",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19,
+            22,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时26分]"
+        },
+        {
+          "title": "无耻之徒卡尔入驻抖音",
+          "url": "https://www.douyin.com/hot/2280275",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 13时28分]"
+        },
+        {
+          "title": "入青云破万福利全员抖音热舞",
+          "url": "https://www.douyin.com/hot/2281201",
+          "source": "抖音",
+          "ranks": [
+            26,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 19时24分]"
+        },
+        {
+          "title": "豆包和夸克吵起来了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B1%86%E5%8C%85%E5%92%8C%E5%A4%B8%E5%85%8B%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D15%26c_type%3D31%26q%3D%2523%25E8%25B1%2586%25E5%258C%2585%25E5%2592%258C%25E5%25A4%25B8%25E5%2585%258B%25E5%2590%25B5%25E8%25B5%25B7%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D15%26pos%3D15%26display_time%3D1761275288%26pre_seqid%3D1761275288124033094522",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "抖音混剪圈来欢迎卡尔入驻",
+          "url": "https://www.douyin.com/hot/2281487",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini nanobanana",
       "match_count": 5,
       "titles": [
@@ -464,66 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音 豆包 即梦 coze",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "豆包三宫格,当代赛博牛皮癣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346139&amp;topic_name=%E8%B1%86%E5%8C%85%E4%B8%89%E5%AE%AB%E6%A0%BC%2C%E5%BD%93%E4%BB%A3%E8%B5%9B%E5%8D%9A%E7%89%9B%E7%9A%AE%E7%99%A3",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19,
-            22,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 15时26分]"
-        },
-        {
-          "title": "无耻之徒卡尔入驻抖音",
-          "url": "https://www.douyin.com/hot/2280275",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时28分]"
-        },
-        {
-          "title": "入青云破万福利全员抖音热舞",
-          "url": "https://www.douyin.com/hot/2281201",
-          "source": "抖音",
-          "ranks": [
-            26,
-            19,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时32分]"
-        },
-        {
-          "title": "豆包和夸克吵起来了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B1%86%E5%8C%85%E5%92%8C%E5%A4%B8%E5%85%8B%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D15%26c_type%3D31%26q%3D%2523%25E8%25B1%2586%25E5%258C%2585%25E5%2592%258C%25E5%25A4%25B8%25E5%2585%258B%25E5%2590%25B5%25E8%25B5%25B7%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D15%26pos%3D15%26display_time%3D1761275288%26pre_seqid%3D1761275288124033094522",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
         }
       ]
     },
@@ -606,6 +642,34 @@
       ]
     },
     {
+      "keyword_group": "腾讯 元宝 混元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
+          "url": "https://wallstreetcn.com/livenews/2993280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "腾讯微保、微信支付等联合推出“商保直付”快捷通道，已在深圳4家医院首批试点",
+          "url": "https://wallstreetcn.com/livenews/2993335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "港股",
       "match_count": 2,
       "titles": [
@@ -630,23 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯 元宝 混元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
-          "url": "https://wallstreetcn.com/livenews/2993280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         }
       ]
     }
