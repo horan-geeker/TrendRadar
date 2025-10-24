@@ -1,8 +1,202 @@
 {
-  "generated_at": "2025-10-24T15:26:54.108053+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-10-24T16:37:23.904168+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 巴菲特",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时27分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 16时37分]"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
+          "url": "https://www.cls.cn/detail/2179010",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时38分]"
+        },
+        {
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251024040817775800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
+          "url": "https://wallstreetcn.com/livenews/2992763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时27分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251024040815232800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251024040224304800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 金龙指数涨1.6%",
+          "url": "https://flash.jin10.com/detail/20251024040110038800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003206062800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2992796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003023348800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251024014719432800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251024013951334800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "A股 上证指数",
       "match_count": 15,
@@ -86,11 +280,23 @@
           "url": "https://www.cls.cn/detail/2179531",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时37分]"
+        },
+        {
+          "title": "A股收评：沪指涨0.71%续创10年新高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时37分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-10-24）",
@@ -121,18 +327,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "A股收评：沪指涨0.71%续创10年新高",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -183,173 +378,65 @@
       ]
     },
     {
-      "keyword_group": "美股 巴菲特",
-      "match_count": 14,
+      "keyword_group": "谷歌 google gemini nanobanana",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时27分]"
-        },
-        {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时56分]"
-        },
-        {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 15时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
-          "url": "https://www.cls.cn/detail/2179010",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            4
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时33分 ~ 14时38分]"
+          "time_info": "[09时56分 ~ 15时26分]"
         },
         {
-          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251024040817775800",
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
           "source": "金十数据",
           "ranks": [
-            10,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
-          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
-          "url": "https://wallstreetcn.com/livenews/2992763",
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
+          "url": "https://wallstreetcn.com/livenews/2992760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时27分]"
         },
         {
-          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251024040815232800",
+          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
+          "url": "https://flash.jin10.com/detail/20251024000146520800",
           "source": "金十数据",
           "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251024040224304800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20251024040110038800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003206062800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2992796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003023348800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
-          "url": "https://flash.jin10.com/detail/20251024014719432800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美股三大股指走高，纳指涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251024013951334800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "00时36分"
         }
       ]
     },
@@ -392,11 +479,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时37分]"
         },
         {
           "title": "豆包和夸克吵起来了",
@@ -412,60 +500,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini nanobanana",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
-          "url": "https://www.cls.cn/detail/2179066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时26分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
-          "url": "https://wallstreetcn.com/livenews/2992760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时27分]"
-        },
-        {
-          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
-          "url": "https://flash.jin10.com/detail/20251024000146520800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 通义千问",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，YINN涨4.8%，KWEB涨2.1%，CAAA涨1.1%。",
@@ -477,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
