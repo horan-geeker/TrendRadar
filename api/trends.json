@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T09:59:59.539952+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-10-25T11:10:40.246484+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 09时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 11时10分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -38,9 +39,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时10分]"
+        },
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 11时10分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -63,18 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时59分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高",
@@ -116,7 +118,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -146,7 +148,7 @@
     },
     {
       "keyword_group": "抖音 豆包 即梦 coze",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "入青云破万福利全员抖音热舞",
@@ -157,11 +159,12 @@
             23,
             21,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 09时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 11时10分]"
         },
         {
           "title": "拍抖音就是为了这个BGM",
@@ -171,11 +174,23 @@
             24,
             28,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 09时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 11时10分]"
+        },
+        {
+          "title": "申请加入尹老师的抖音音乐班",
+          "url": "https://www.douyin.com/hot/2281946",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "抖音混剪圈来欢迎卡尔入驻",
@@ -187,6 +202,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
+          "url": "https://wallstreetcn.com/articles/3757786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 11时10分]"
+        },
+        {
+          "title": "A股高开高走尾盘涨幅略有扩大，沪指再创十年新高：两市成交近2万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31831074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 11时10分]"
+        },
+        {
+          "title": "高盛：A股未来两年还能涨30%",
+          "url": "https://www.toutiao.com/trending/7564949035086253619/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "四中全会对A股市场有哪些影响",
+          "url": "https://www.toutiao.com/trending/7564786945121848859/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -232,46 +300,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证指数",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 09时59分]"
-        },
-        {
-          "title": "A股高开高走尾盘涨幅略有扩大，沪指再创十年新高：两市成交近2万亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31831074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
-        },
-        {
-          "title": "四中全会对A股市场有哪些影响",
-          "url": "https://www.toutiao.com/trending/7564786945121848859/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai chatgpt sora",
       "match_count": 2,
       "titles": [
@@ -282,22 +310,24 @@
           "ranks": [
             2,
             3,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 11时10分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
           "url": "https://flash.jin10.com/detail/20251025085423303800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时10分]"
         }
       ]
     },
@@ -314,11 +344,12 @@
             7,
             14,
             15,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 09时59分]"
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 11时10分]"
         }
       ]
     }
